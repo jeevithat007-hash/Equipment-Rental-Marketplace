@@ -325,7 +325,7 @@ LoginFrame.java
 
 Bachelor of Engineering
 
-Department of Computer Science and Engineering
+Department of Artificial Intelligence and Data Science
 
 Capstone Project – Equipment Rental Marketplace
 
