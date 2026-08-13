@@ -323,7 +323,7 @@ LoginFrame.java
 
 **Jeevitha T**
 
-Bachelor of Engineering
+Bachelor of Technology
 
 Department of Artificial Intelligence and Data Science
 
